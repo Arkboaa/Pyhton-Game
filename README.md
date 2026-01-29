@@ -48,3 +48,8 @@ Unity Hub üzerinden projeyi açın (Önerilen Sürüm: 2022.3 LTS veya üzeri).
 Window > Package Manager kısmından Python for Unity paketinin yüklü olduğundan emin olun.
 
 Assets/Scenes/Level1 sahnesini açın ve Play butonuna basın.
+
+PROJEDEN ÖRNEK SEVİYE
+
+<img width="1145" height="538" alt="Screenshot_3" src="https://github.com/user-attachments/assets/1210a053-9323-413e-b6ff-af3036ff2f51" />
+
